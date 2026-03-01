@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Professional engineering hero shot",
+      "imageUrl": "/assets/images/hero-image.png",
+      "imageHint": "software engineer"
+    },
+    {
+      "id": "hobbies-image-1",
+      "description": "Trekking and adventure",
+      "imageUrl": "/assets/images/hobbies-1.jpg",
+      "imageHint": "mountain trekking"
+    },
+    {
+      "id": "hobbies-image-2",
+      "description": "Fitness and gym training",
+      "imageUrl": "/assets/images/hobbies-2.jpg",
+      "imageHint": "gym workout"
+    },
+    {
+      "id": "hobbies-image-3",
+      "description": "Nature exploration",
+      "imageUrl": "/assets/images/hobbies-3.jpg",
+      "imageHint": "scenic nature"
+    }
+  ]
+}
