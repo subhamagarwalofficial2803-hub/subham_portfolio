@@ -13,10 +13,10 @@ export const CONFIG = {
 
   // Local paths relative to the /public directory
   localPaths: {
-    heroImage: "/assets/images/hero-image.png",
-    resumePdf: "/assets/pdf/Subham_Agarwal_resume.pdf",
-    portfolioPdf: "/assets/pdf/Subham_Agarwal_portfolio.pdf",
-    hobbiesPdf: "/assets/pdf/Subham_Agarwal_hobbies.pdf",
+    heroImage: "subham_portfolio/assets/images/hero-image.png",
+    resumePdf: "subham_portfolio/assets/pdf/Subham_Agarwal_resume.pdf",
+    portfolioPdf: "subham_portfolio/assets/pdf/Subham_Agarwal_portfolio.pdf",
+    hobbiesPdf: "subham_portfolio/assets/pdf/Subham_Agarwal_hobbies.pdf",
   }
 };
 
